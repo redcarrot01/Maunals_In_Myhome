@@ -55,7 +55,7 @@
 
 [백엔드](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/Backend/backend.md) 
 
-[데이터](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/Backend/DataCrawling_%EC%9C%A0%EC%A7%84/datacrawling.md)
+[데이터](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/DataCrawling/README.md)
 
 ## 개선점
 
