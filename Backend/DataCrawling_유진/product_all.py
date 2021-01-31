@@ -1,3 +1,4 @@
+# 카테고리, 제품번호, 제품 상세 페이지 링크, 제품 코드, 제품 이미지 링크 다 읽어와서 리스트화
 from bs4 import BeautifulSoup
 import requests
 import os
