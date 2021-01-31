@@ -51,11 +51,11 @@
 
 <p align="center"><img alt="아키텍처" src="https://user-images.githubusercontent.com/25981278/103439548-347c8500-4c81-11eb-86f0-16257abecd28.png"></p>
 
-[프론트엔드](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/Frontend/frontend.md) 
+[프론트엔드](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/Frontend/README.md) 
 
-[백엔드](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/Backend/backend.md) 
+[백엔드](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/Backend/README.md) 
 
-[데이터크롤링](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/DataCrawling/datacrawling.md)
+[데이터크롤링](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/DataCrawling/README.md)
 
 ## 개선점
 
