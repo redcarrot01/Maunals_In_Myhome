@@ -9,7 +9,7 @@
 - /custom- GET요청시에 로그인이 되어 있을 경우 사용자 아이디를 response하고 아닐 경우 400에러를 응답합니다.  /POST요청시에 처음 로그인일 경우 모음집 테이블을 생성하고 201을 응답하고, 이전에 사용했을 경우 200로 테이블이 있음을 응답합니다.
 - /search -url 쿼리 문자열 q의 값으로 검색된 제품 코드 문자열을 담아  GET요청했을 때, 클라우드서치 서비스에서 해당 문자열을 담은 제품들을 업로드된 조회해서 response합니다.
 
-### AWS CloudWatch
+### AWS CloudSearch
 
 ![image](https://user-images.githubusercontent.com/38436013/106380683-4de72d00-63f7-11eb-9eb4-3cdb31b6aa7f.png)
 
