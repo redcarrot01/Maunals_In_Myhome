@@ -51,6 +51,8 @@
 
 <p align="center"><img alt="아키텍처" src="https://user-images.githubusercontent.com/25981278/103439548-347c8500-4c81-11eb-86f0-16257abecd28.png"></p>
 
+#### 각 아키텍처를 자세히 보고 싶다면, 아래 항목을 클릭해주세요
+
 [프론트엔드](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/Frontend/README.md) 
 
 [백엔드](https://github.com/minority-elite/Maunals_In_Myhome/blob/main/Backend/README.md) 
@@ -65,7 +67,6 @@
 
 ## 기여
 
-### 각 아키텍처를 자세히 보고 싶다면, 아래 항목을 클릭해주세요
 
 [이준의](https://github.com/coconutstd)
 
